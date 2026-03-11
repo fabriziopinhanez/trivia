@@ -1,2 +1,3 @@
 # trivia 
-# es un juego de trivia
+# es un juego de trivia 
+Fabrizio 
